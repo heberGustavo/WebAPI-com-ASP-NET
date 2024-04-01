@@ -1,2 +1,2 @@
-# WebAPI-com-ASP-NET
-Project based in course of the youtube
+# Criação de uma WebAPI com ASP NET
+Nesse projeto desenvolvi um modelo de WebAPI utilizando Asp Net Core
